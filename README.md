@@ -6,7 +6,9 @@
 [![Code Standard](https://img.shields.io/badge/code%20style-lua--users-brightgreen.svg)](http://lua-users.org/wiki/LuaStyleGuide)
 [![Experimental Mode](https://img.shields.io/badge/experimental-off-brightgreen.svg)](https://en.help.roblox.com/hc/en-us/articles/115003766763-Experimental-Mode)
 [![Current Libraries](https://img.shields.io/badge/libraries-0-red.svg)](http://localhost)
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/WelpNathan/Waterbottle/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/WelpNathan/Waterbottle/issues)
+
 
 
 These modules were designed to help make development on the Roblox platform as easy and simple as possible. The singular RemoteEvent and RemoteFunction was designed to make your ReplicatedStorage as less cluttered as possible cause lets face it, no one likes things being disorganised.
