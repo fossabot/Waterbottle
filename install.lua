@@ -1,1 +1,2 @@
 --install file
+print('Install')

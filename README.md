@@ -19,5 +19,5 @@ Roblox was very kind and added the instance of [ModuleScripts](https://wiki.robl
 ## Getting started
 Installing the library can be done by the Roblox HttpService which simply requests the installation lua file from the GitHub directory. For this, the ``HttpService`` needs to be enabled to request the data. If this is not enabled, it will cause an error and the installation will not proceed. You can enable the service by going to the Game Settings tab in Roblox Studio.
 ```lua
-loadstring(game:GetService('HttpService'):GetAsync("localhost"))
+loadstring(game:GetService('HttpService'):GetAsync('https://raw.githubusercontent.com/WelpNathan/Waterbottle/master/install.lua'))
 ```
