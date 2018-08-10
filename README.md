@@ -1,5 +1,5 @@
 <p align="center">
-  <img src ="https://s3.eu-west-2.amazonaws.com/welpnathan-images/mew.png"/>
+  <img src ="https://s3.eu-west-2.amazonaws.com/welpnathan-images/Untitled.png"/>
 </p>
 
 # Introduction
