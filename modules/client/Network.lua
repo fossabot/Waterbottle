@@ -18,19 +18,19 @@
   For questions, please reach out to me on the Roblox Developer Forum (@WelpNathan)
   or via Twitter! (https://twitter.com/WelpNathan)
 	
-	------
+  ------
 	
-	Network:ListenEvent(<string> fName, <function> fCallback)
-		Listens for a RemoteEvent FireServer with a callback function.
+  Network:ListenEvent(<string> fName, <function> fCallback)
+    Listens for a RemoteEvent FireServer with a callback function.
 			
-	Network:ListenFunction(<string> fName, <function> fCallback)
-		Listens for a RemoteFunction InvokeServer with a callback function.
+  Network:ListenFunction(<string> fName, <function> fCallback)
+    Listens for a RemoteFunction InvokeServer with a callback function.
 			
-	Network:FireEvent(Player<table> clients, <string> fName, <tuple> ...)
-		Fires the RemoteEvent to an array of clients.
-	
-	Network:FireFunction(Player client, <string> fName, <tuple> ...)
-  		Fires the RemoteFunction to a client.
+  Network:FireEvent(Player<table> clients, <string> fName, <tuple> ...)
+    Fires the RemoteEvent to an array of clients.
+
+  Network:FireFunction(Player client, <string> fName, <tuple> ...)
+    Fires the RemoteFunction to a client.
 --]]
 
 local Network = {}

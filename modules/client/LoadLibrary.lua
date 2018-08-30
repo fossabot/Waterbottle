@@ -18,9 +18,9 @@
   For questions, please reach out to me on the Roblox Developer Forum (@WelpNathan)
   or via Twitter! (https://twitter.com/WelpNathan)
 	
-	------
-	
-	Lib:LoadLibrary(<string> libraryName)
+  ------
+  
+  Lib:LoadLibrary(<string> libraryName)
     Returns the cached version of a module script.
     
   ------
