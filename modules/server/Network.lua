@@ -2,7 +2,7 @@
 	Server Network Module V1 by Nathan Hall [WelpNathan] 
   Part of the Waterbottle Scripting Library.
   https://github.com/WelpNathan/Waterbottle
-	
+  
   This lua module is licensed under the MIT License.
   https://github.com/WelpNathan/Waterbottle/blob/master/LICENSE
 
@@ -12,11 +12,11 @@
   * Modify the code in any way.
   * Distribute the code.
 
-	I do not hold any liability of warranty for usage on how you use the code.
-	Refer to the MIT license for a full description.
-	
-	For questions, please reach out to me on the Roblox Developer Forum (@WelpNathan)
-	or via Twitter (https://twitter.com/WelpNathan)
+  I do not hold any liability of warranty for usage on how you use the code.
+  Refer to the MIT license for a full description.
+  
+  For questions, please reach out to me on the Roblox Developer Forum (@WelpNathan)
+  or via Twitter! (https://twitter.com/WelpNathan)
 	
 	------
 	
