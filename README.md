@@ -17,7 +17,7 @@ These modules were designed to help make development on the Roblox platform as e
 Roblox was very kind and added the instance of [ModuleScripts](https://wiki.roblox.com/index.php?title=API:Class/ModuleScript) in Version [0.131](https://anaminus.github.io/api/diff.html#v0.131) (late 2013), this made development a lot easier and reduced the amount of global variables needed to call functions and such. This project utilises these ModuleScripts to give you a simple library to use. Installation of the library is incredibly simple and usually takes a few seconds to add into your game.
 
 ## Getting started
-Installing the library can be done by the Roblox HttpService which simply requests the installation lua file from the GitHub directory. For this, the ``HttpService`` needs to be enabled to request the data. If this is not enabled, it will cause an error and the installation will not proceed. You can enable the service by going to the Game Settings tab in Roblox Studio.
+Installing the library pack can be done by the Roblox HttpService which simply requests the installation lua file from the GitHub directory. For this, the ``HttpService`` needs to be enabled to request the data. If this is not enabled, it will cause an error and the installation will not proceed. You can enable the service by going to the Game Settings tab in Roblox Studio.
 ```lua
 loadstring(game:GetService('HttpService'):GetAsync('https://raw.githubusercontent.com/WelpNathan/Waterbottle/master/install.lua'))
 ```
