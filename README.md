@@ -7,6 +7,7 @@
 [![Experimental Mode](https://img.shields.io/badge/experimental-off-brightgreen.svg)](https://en.help.roblox.com/hc/en-us/articles/115003766763-Experimental-Mode)
 [![Current Libraries](https://img.shields.io/badge/libraries-0-red.svg)](http://localhost)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/WelpNathan/Waterbottle/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWelpNathan%2FWaterbottle.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FWelpNathan%2FWaterbottle?ref=badge_shield)
 
 These modules were designed to help make development on the Roblox platform as easy and simple as possible. The singular RemoteEvent and RemoteFunction was designed to make your ReplicatedStorage as less cluttered as possible cause lets face it, no one likes things being disorganised.
 
@@ -18,3 +19,7 @@ Installing the library pack can be done by the Roblox HttpService which simply r
 ```lua
 loadstring(game:GetService('HttpService'):GetAsync('https://raw.githubusercontent.com/WelpNathan/Waterbottle/master/install.lua'))
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWelpNathan%2FWaterbottle.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWelpNathan%2FWaterbottle?ref=badge_large)
